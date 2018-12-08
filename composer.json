@@ -1,0 +1,11 @@
+{
+  "name": "api-platform/admin-pack",
+  "type": "symfony-pack",
+  "license": "MIT",
+  "description": "A pack for API Platform Admin",
+  "require": {
+    "php": "^7.0",
+    "api-platform/api-pack": "^1.0",
+    "symfony/webpack-encore-pack": "^1.0"
+  }
+}
