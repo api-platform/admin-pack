@@ -4,7 +4,8 @@
   "license": "MIT",
   "description": "A pack for API Platform Admin",
   "require": {
-    "php": "^7.0",
+    "php": ">=7.0",
+    "api-platform/admin-meta": "^1.0",
     "api-platform/api-pack": "^1.0",
     "symfony/webpack-encore-bundle": "^1.0"
   }
